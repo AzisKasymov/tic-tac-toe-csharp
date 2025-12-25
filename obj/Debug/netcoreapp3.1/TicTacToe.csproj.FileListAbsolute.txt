@@ -1,0 +1,13 @@
+C:\CSharpProjects\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\CSharpProjects\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\CSharpProjects\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\CSharpProjects\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\CSharpProjects\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\CSharpProjects\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\CSharpProjects\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\CSharpProjects\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\CSharpProjects\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\CSharpProjects\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\CSharpProjects\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\CSharpProjects\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
